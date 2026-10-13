@@ -1,0 +1,13 @@
+# outputs
+out/
+
+# your data and park files (kept private)
+*.csv
+*.png
+park_*.yaml
+!park_example.yaml
+turbines/
+
+__pycache__/
+.venv/
+venv/

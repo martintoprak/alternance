@@ -1,0 +1,4 @@
+floris>=4.0
+numpy
+pandas
+matplotlib
